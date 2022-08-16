@@ -2,6 +2,7 @@
 - 👀 I’m interested in I.A.
 - 🌱 I’m currently learning JS, React; ReactNativeJS, Redux, Postqres
 - 💞️ I’m looking to collaborate on web development
+- 🔧 Technologies and Tools: HTML5 - CSS 3 - BOOTSTRAP - LESS - JAVASCRIPT - REACT JS - REDUX - EXPRESS - NODE JS - POSTGRE SQL - SEQUELIZE - GIT - GITHUB - VISUAL CODE
 - 📫 How to reach me https://www.linkedin.com/feed/
 
 <!---
